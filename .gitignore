@@ -1,0 +1,7 @@
+#Ignore personal files
+.env
+TODO.md
+
+#Ignore folders
+.vscode/
+
